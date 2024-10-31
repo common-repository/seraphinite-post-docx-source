@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-post-docx-source package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: seraphinite-post-docx-source 2.16.10\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Seraphinite Post .DOCX Source
+msgid "Seraphinite Post .DOCX Source"
+msgstr ""
+
+# Save your time by automatically converting from .DOCX to content with all WordPress post attributes.
+msgid ""
+"Save your time by automatically converting from .DOCX to content with all "
+"WordPress post attributes."
+msgstr ""
+
+# https://www.s-sols.com
+msgid "https://www.s-sols.com"
+msgstr ""
+
+# Seraphinite Solutions
+msgid "Seraphinite Solutions"
+msgstr ""
+
+# http://wordpress.org/plugins/seraphinite-post-docx-source
+msgid "http://wordpress.org/plugins/seraphinite-post-docx-source"
+msgstr ""

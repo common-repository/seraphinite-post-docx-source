@@ -1,0 +1,7 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="ignore">_seraph_pds_BindGuid</custom-field>
+	</custom-fields>
+</wpml-config>
+
+

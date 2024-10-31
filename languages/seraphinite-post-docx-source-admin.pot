@@ -1,0 +1,1436 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Seraphinite Solutions
+# This file is distributed under the same license as the seraphinite-post-docx-source package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  cmn.admin.pot (seraphinite-post-docx-source 2.16.10)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-post-docx-source 2.16.10\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  main.admin.pot (seraphinite-post-docx-source 2.16.10)  #-#-#-#-#\n"
+"Project-Id-Version: seraphinite-post-docx-source 2.16.10\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Functionality is not implemented yet.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004001"
+msgstr ""
+
+# General error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004005"
+msgstr ""
+
+# The operation attempted is not supported.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80004021"
+msgstr ""
+
+# Access is denied. Ensure that there are proper access rights.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070005"
+msgstr ""
+
+# One or more arguments are invalid.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070057"
+msgstr ""
+
+# Not found.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070490"
+msgstr ""
+
+# Data is corrupted.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_80070570"
+msgstr ""
+
+# The timeout period expired.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800705B4"
+msgstr ""
+
+# External program ended with error.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_800401F7"
+msgstr ""
+
+# Result code 0x%08X.
+#. translators: 1 - error code.
+#, php-format
+msgctxt "admin.ErrDescr_Common"
+msgid "Def_%08X"
+msgstr ""
+
+# The settings have been restored successfully to their defaults.
+msgctxt "admin.Common_Settings"
+msgid "ResetSuccInfo"
+msgstr ""
+
+# The settings have not been restored: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "ResetErrInfo_%1$s"
+msgstr ""
+
+# Documentation
+msgctxt "admin.Common"
+msgid "PluginDocLink"
+msgstr ""
+
+# Order Premium Version
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureBtn"
+msgstr ""
+
+# Other Features
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtTitle"
+msgstr ""
+
+# Please, switch to the <strong>free extended plugin</strong> version with %1$sfree additional features and preview of premium ones%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtInfo_%1$s%2$s"
+msgstr ""
+
+# Download the free extended plugin version
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkBtn"
+msgstr ""
+
+# Download
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLinkSmallBtn"
+msgstr ""
+
+# Please, press the '<strong>%1$s</strong>' button to open the vendor's website, then <strong>download free version</strong> and <strong>replace the existed one</strong>.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ContentNotInplaceInfo_%1$s"
+msgstr ""
+
+# By pressing "%1$s" button you are agreeing with the %2$sEnd-User License Agreement%3$s.
+#. translators: 1 - button name; 2,3 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "LicAcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Rate It
+msgctxt "admin.Common_RateIt"
+msgid "Title"
+msgstr ""
+
+# Thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateSmallBtn"
+msgstr ""
+
+# If you like the plugin please could you give us a %1$s rating.%2$s%3$sThank you very much in advance. We do %4$sall of our best%5$s.
+#. translators: 1 - link; 2 - Info_P2; 3 - separator tags; 4,5 - link tags.
+#, php-format
+msgctxt "admin.Common_RateIt"
+msgid "Info_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# It really improves the plugin.
+msgctxt "admin.Common_RateIt"
+msgid "Info_P2"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginSubjectTitle_%1$s%2$s"
+msgstr ""
+
+# .DOCX Source
+msgctxt "admin.Common"
+msgid "PluginTitle"
+msgstr ""
+
+# Post .DOCX Source
+msgctxt "admin.Common"
+msgid "PluginTitleLong"
+msgstr ""
+
+# Seraphinite Post .DOCX Source
+msgctxt "admin.Common"
+msgid "PluginTitleFull"
+msgstr ""
+
+# Save your time by automatically converting from .DOCX to content with all WordPress post attributes.
+msgctxt "admin.Common"
+msgid "PluginDescription"
+msgstr ""
+
+# Save your time by automatically converting from .DOCX to content with all WordPress post attributes.
+msgctxt "admin.Common"
+msgid "PluginDescriptionFull"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginNameToDetails_%1$s%2$s"
+msgstr ""
+
+# Start
+msgctxt "admin.Common"
+msgid "Start"
+msgstr ""
+
+# Function '%1$s' is blocked
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FuncBlocked_%1$s"
+msgstr ""
+
+# Can't execute (%1$s) external program
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErr_%1$s"
+msgstr ""
+
+# External program (%1$s) returned the code %2$d and response (%3$s)
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "ExecErrCode_%1$s%2$d%3$s"
+msgstr ""
+
+# Can't create temporary file in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "TmpFileCreateErr_%1$s"
+msgstr ""
+
+# Can't write in '%1$s' directory
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "DirWriteErr_%1$s"
+msgstr ""
+
+# Can't find '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileNotFound_%1$s"
+msgstr ""
+
+# Can't write '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileWriteErr_%1$s"
+msgstr ""
+
+# Can't read '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileReadErr_%1$s"
+msgstr ""
+
+# Can't modify '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileModifyErr_%1$s"
+msgstr ""
+
+# Can't rename '%1$s' file to '%2$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileRenameErr_%1$s%2$s"
+msgstr ""
+
+# Can't delete '%1$s' file
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileDeleteErr_%1$s"
+msgstr ""
+
+# Can't mark '%1$s' file as executable
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "FileMakeExecErr_%1$s"
+msgstr ""
+
+# Can't download '%1$s'
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetDownloadErr_%1$s"
+msgstr ""
+
+# Can't recognize '%1$s' MIME type
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "NetMimeErr_%1$s"
+msgstr ""
+
+# PHP's launcher file not found near extensions' '%1$s' directory.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExecMdlNotFound_%1$s"
+msgstr ""
+
+# %1$s. Extensions' directory is '%2$s'.
+#, php-format
+msgctxt "admin.Common_Msg"
+msgid "PhpExtDirSuffix_%1$s%2$s"
+msgstr ""
+
+# About
+msgctxt "admin.Common_About"
+msgid "Title"
+msgstr ""
+
+# Seraphinite Post .DOCX Source
+msgctxt "admin.Common"
+msgid "PluginTitleFullWithSuffix"
+msgstr ""
+
+# %1$sVersion:%2$s %3$s
+#. translators: 1,2 - strong tags; 3 - version.
+#, php-format
+msgctxt "admin.Common_About"
+msgid "Version_%1$s%2$s%3$s"
+msgstr ""
+
+# Third-Party Software
+msgctxt "admin.Common_About"
+msgid "Link3rdPartySoft"
+msgstr ""
+
+# Get support...
+msgctxt "admin.Common_About"
+msgid "LinkSupport"
+msgstr ""
+
+# About Vendor
+msgctxt "admin.Common_AboutVendor"
+msgid "Title"
+msgstr ""
+
+# We develop solutions for WordPress and other platforms to streamline your business and life.
+msgctxt "admin.Common_AboutVendor"
+msgid "Info1"
+msgstr ""
+
+# Please, do not hesitate to %1$scontact us%2$s if you have any %3$squestion%4$s or want %5$sadditional features%6$s.
+#. translators: 1,2 - link tags; 3,4 - strong tags; 5,6 - strong tags.
+#, php-format
+msgctxt "admin.Common_AboutVendor"
+msgid "Info2_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# More plugins...
+msgctxt "admin.Common_AboutVendor"
+msgid "MorePluginsBtn"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AboutVendor"
+msgid "MoreInfoBtn"
+msgstr ""
+
+# License
+msgctxt "admin.Common_Lic"
+msgid "SettingsTitle"
+msgstr ""
+
+# Enable activation of %1$spremium features%2$s or switch to the <strong>free extended plugin</strong> version with additional features.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtLicenseInfo_%1$s%2$s"
+msgstr ""
+
+# Featured Plugins
+msgctxt "admin.Common_AdvertProducts"
+msgid "Title"
+msgstr ""
+
+# This promotion %1$sisn't shown%2$s in the %3$spremium version%4$s.
+#. translators: 1,2 - strong tags; 3,4 - strong tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "LockedFeatureInsideInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AdvertProducts"
+msgid "ItemMoreInfoBtn"
+msgstr ""
+
+# All plugins can be discovered at the %1$smain site%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "TotalInfo_%1$s%2$s"
+msgstr ""
+
+# All current settings will be lost. Are you sure you want to restore the default settings?
+msgctxt "admin.Common_Settings"
+msgid "RestoreConfirm"
+msgstr ""
+
+# Previous
+msgctxt "admin.Common_Settings"
+msgid "WizPrevBtn"
+msgstr ""
+
+# Next
+msgctxt "admin.Common_Settings"
+msgid "WizNextBtn"
+msgstr ""
+
+# Finish
+msgctxt "admin.Common_Settings"
+msgid "WizFinishBtn"
+msgstr ""
+
+# Begin setup wizard
+msgctxt "admin.Common_Settings"
+msgid "WizStartBtn"
+msgstr ""
+
+# Setup wizard
+msgctxt "admin.Common_Settings"
+msgid "TitleWiz"
+msgstr ""
+
+# The settings have been saved successfully.
+msgctxt "admin.Common_Settings"
+msgid "SaveSuccInfo"
+msgstr ""
+
+# The settings have been partially saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveWarnInfo_%1$s"
+msgstr ""
+
+# The settings have not been saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveErrInfo_%1$s"
+msgstr ""
+
+# The plugin's behavior has been changed since previous used version. Please, see the details in the %1$sproduct's changelog%2$s and correct the settings if necessary.
+#, php-format
+msgctxt "admin.Common_ChangeVersion"
+msgid "Info_%1$s%2$s"
+msgstr ""
+
+# Confirm
+msgctxt "admin.Common_ChangeVersion"
+msgid "ConfirmBtn"
+msgstr ""
+
+# It looks like you've been using the plugin for a while now, thanks!
+msgctxt "admin.Common_RateIt"
+msgid "InfoPrefix"
+msgstr ""
+
+# Say thank you!
+msgctxt "admin.Common_RateIt"
+msgid "RateBtn"
+msgstr ""
+
+# Postpone
+msgctxt "admin.Common_RateIt"
+msgid "PostponeBtn"
+msgstr ""
+
+# Accept the End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "AcceptBtn"
+msgstr ""
+
+# Please, accept the new %1$sEnd-User License Agreement%2$s. By pressing "%3$s" button you are agreeing with it.
+#. translators: 1,2 - link tags; 3 - button name.
+#, php-format
+msgctxt "admin.Common_Eula"
+msgid "AcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# The context has expired and can no longer be used.
+msgctxt "admin.ErrDescr_Common"
+msgid "Err_8007078B"
+msgstr ""
+
+# Plugin is not compatible with current PHP version %1$s according to it %3$srequirements%4$s. Please <strong>update your PHP version to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "PhpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Plugin is not compatible with current WordPress version %1$s according to it %3$srequirements%4$s. Please <strong>update your WordPress to %2$s or higher</strong>.
+#. translators: 1 - PHP ver, 2 - PHP requred ver, 3,4 - link tags.
+#, php-format
+msgctxt "admin.Common"
+msgid "WpMinVerErr_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Add
+msgctxt "admin.Common_ItemsList"
+msgid "AddItemBtn"
+msgstr ""
+
+# Delete all
+msgctxt "admin.Common_ItemsList"
+msgid "DelAllItemsBtn"
+msgstr ""
+
+# No items
+msgctxt "admin.Common_ItemsList"
+msgid "NoItemsInfo"
+msgstr ""
+
+# Google Document
+msgctxt "admin.PostUpdater_Operation_SrcType"
+msgid "GoogleDocsRad"
+msgstr ""
+
+# Google Document by URL
+msgctxt "admin.PostUpdater_Operation_SrcType"
+msgid "GoogleDocsUrlRad"
+msgstr ""
+
+# Local file
+msgctxt "admin.PostUpdater_Operation_SrcType"
+msgid "LocalRad"
+msgstr ""
+
+# Unable to set categories: this post type doesn't support it
+msgctxt "admin.Msg"
+msgid "CatsNotSet"
+msgstr ""
+
+# Unable to set keywords: this post type doesn't support it
+msgctxt "admin.Msg"
+msgid "KeywordsNotSet"
+msgstr ""
+
+# Unable to update featured image: %1$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "FeaturImgNotUpdated_%1$s"
+msgstr ""
+
+# Unable to set featured image: %1$s
+#, php-format
+msgctxt "admin.Msg"
+msgid "FeaturImgNotSet_%1$s"
+msgstr ""
+
+# Unable to set SEO title: No one of any %1$ssupported SEO plugins%2$s is installed
+#, php-format
+msgctxt "admin.Msg"
+msgid "TitleSeoNotSet_%1$s%2$s"
+msgstr ""
+
+# Unable to set SEO description: No one of any %1$ssupported SEO plugins%2$s is installed
+#, php-format
+msgctxt "admin.Msg"
+msgid "DescrSeoNotSet_%1$s%2$s"
+msgstr ""
+
+# Unable to set language "%1$s": 0x%2$08X
+#, php-format
+msgctxt "admin.Msg"
+msgid "LangNotSet_%1$s%2$x"
+msgstr ""
+
+# Language "%1$s" is not available
+#, php-format
+msgctxt "admin.Msg"
+msgid "LangNotAvail_%1$s"
+msgstr ""
+
+# Current user can't upload files
+msgctxt "admin.Msg"
+msgid "UserNotUploadFiles"
+msgstr ""
+
+# Current user can't edit the post
+msgctxt "admin.Msg"
+msgid "UserNotEditPost"
+msgstr ""
+
+# Can't create "%1$s" temp file
+#, php-format
+msgctxt "admin.Msg"
+msgid "NotCreateTmpFile_%1$s"
+msgstr ""
+
+# Can't copy stream to "%1$s" temp file
+#, php-format
+msgctxt "admin.Msg"
+msgid "NotCopyToTmpFile_%1$s"
+msgstr ""
+
+# Can't upload zero length content
+msgctxt "admin.Msg"
+msgid "NotUploadZeroContent"
+msgstr ""
+
+# General
+msgctxt "admin.Settings_General"
+msgid "Title"
+msgstr ""
+
+# Content Types
+msgctxt "admin.Settings_General"
+msgid "ContentTypesLbl"
+msgstr ""
+
+# Choose which content types should be processed.
+msgctxt "admin.Settings_General"
+msgid "ContentTypesDsc"
+msgstr ""
+
+msgctxt "admin.Settings_General"
+msgid "UserRolesLbl"
+msgstr ""
+
+msgctxt "admin.Settings_General"
+msgid "UserRolesDsc"
+msgstr ""
+
+# Formulas
+msgctxt "admin.Settings_General"
+msgid "FormulasLbl"
+msgstr ""
+
+# Load styles always
+msgctxt "admin.Settings_Formulas_InitMode"
+msgid "StaticEnm"
+msgstr ""
+
+# Load styles dynamically
+msgctxt "admin.Settings_Formulas_InitMode"
+msgid "DynamicEnm"
+msgstr ""
+
+# Don't load styles
+msgctxt "admin.Settings_Formulas_InitMode"
+msgid "NoEnm"
+msgstr ""
+
+# Google Drive API ID
+msgctxt "admin.Settings_General"
+msgid "GoogleDriveApiLbl"
+msgstr ""
+
+# Optional settings
+msgctxt "admin.Settings_ContentConversion"
+msgid "Title"
+msgstr ""
+
+# %1$sDirect update%2$s is available only in %3$sfree extended version%4$s.
+#. translators: 1,2 - tags; 3,4 - tags.
+#, php-format
+msgctxt "admin.PostDirectUpdater"
+msgid "SwitchToExtInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Log
+msgctxt "admin.PostUpdater"
+msgid "ReportLbl"
+msgstr ""
+
+# %1$s: Direct Add/Update
+#. translators: 1 - plugin title.
+#, php-format
+msgctxt "admin.PostDirectUpdater"
+msgid "Title_%1$s"
+msgstr ""
+
+# %1$sSettings for particular content types%2$s are available only in %3$spremium version%4$s.
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "LockedFeatureInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# Source
+msgctxt "admin.PostUpdater_Operation"
+msgid "SrcFileLbl"
+msgstr ""
+
+# Source type
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "SrcFilesLbl"
+msgstr ""
+
+# Add files..
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "BrowseAddBtn"
+msgstr ""
+
+# Browse...
+msgctxt "admin.PostUpdater_Operation"
+msgid "BrowseBtn"
+msgstr ""
+
+# Add folder...
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "BrowseFolderAddBtn"
+msgstr ""
+
+# Browse for folder...
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "BrowseFolderBtn"
+msgstr ""
+
+# Add files or folder...
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "BrowseFileFolderAddBtn"
+msgstr ""
+
+# Requires %1$ssetting up%2$s access to Google Drive.
+#, php-format
+msgctxt "admin.PostUpdater_Operation"
+msgid "GoogleDriveApiSetupNeededNotice_%1$s%2$s"
+msgstr ""
+
+# Add
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "AddBtn"
+msgstr ""
+
+# Shareable document's link or ID
+msgctxt "admin.PostUpdater_Operation"
+msgid "SrcUrlGoogleDocsPlchldr"
+msgstr ""
+
+# Linked external media
+msgctxt "admin.PostUpdater_Operation"
+msgid "ExtMediaLbl"
+msgstr ""
+
+# Browse for media's folder...
+msgctxt "admin.PostUpdater_Operation"
+msgid "BrowseMediaFolderBtn"
+msgstr ""
+
+# Only embeded document's media can be uploaded due to browser's security limitations.
+msgctxt "admin.PostUpdater_Operation"
+msgid "ExtMediaNotice"
+msgstr ""
+
+# Content Type
+msgctxt "admin.Settings_ContentConversion"
+msgid "ContentTypeLbl"
+msgstr ""
+
+# Sources
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "SrcFilesListLbl"
+msgstr ""
+
+# Clear list
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "ClearListBtn"
+msgstr ""
+
+# Add/Update
+msgctxt "admin.PostUpdater_Operation_Direct"
+msgid "UpdateAddBtn"
+msgstr ""
+
+# Load
+msgctxt "admin.PostUpdater_Operation"
+msgid "UpdateBtn"
+msgstr ""
+
+# Document
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "Lbl"
+msgstr ""
+
+# Bind document to content
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "BindChk"
+msgstr ""
+
+# Expression for post ID from filename: %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "FilenameToIDExprLbl_%1$s"
+msgstr ""
+
+# Document's global unique ID
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "BindGuidPlchldr"
+msgstr ""
+
+# Use separate attributes
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "AttrsChk"
+msgstr ""
+
+# Use blocks (Gutenberg) formatting
+msgctxt "admin.Settings_ContentConversion_Document"
+msgid "GutenbergChk"
+msgstr ""
+
+# Use text coloring
+msgctxt "admin.Settings_ContentConversion"
+msgid "TextColorsChk"
+msgstr ""
+
+# Use fonts' sizes
+msgctxt "admin.Settings_ContentConversion"
+msgid "FontsChk"
+msgstr ""
+
+# Preserve empty paragraphs
+msgctxt "admin.Settings_ContentConversion"
+msgid "PreserveEmptyParagraphsChk"
+msgstr ""
+
+# Use paragraphs' indentions
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphIndentionChk"
+msgstr ""
+
+# Use numbering %1$s styles
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "NumberingStyleChk_%1$s"
+msgstr ""
+
+# iterations only
+msgctxt "admin.Settings_ContentConversion"
+msgid "NumberingStyleChk_1_Fmt"
+msgstr ""
+
+# full
+msgctxt "admin.Settings_ContentConversion"
+msgid "NumberingStyleChk_1_FmtTpl"
+msgstr ""
+
+# Use paragraphs' spacings %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphSpacingChk_%1$s"
+msgstr ""
+
+# from body only
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphCmnChk_1_Body"
+msgstr ""
+
+# from body and style
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphCmnChk_1_StyleBody"
+msgstr ""
+
+# from style only
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphCmnChk_1_Style"
+msgstr ""
+
+# Use paragraphs' line height %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphLineHeightChk_%1$s"
+msgstr ""
+
+# Use paragraphs' text formattings %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphTextFmtChk_%1$s"
+msgstr ""
+
+# Use charachers' text formattings %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "TextFmtChk_%1$s"
+msgstr ""
+
+# Use paragraphs' properties %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion"
+msgid "ParagraphAttrsChk_%1$s"
+msgstr ""
+
+# Non-existent hyperlinks
+msgctxt "admin.Settings_ContentConversion_Links"
+msgid "Lbl"
+msgstr ""
+
+# Underline
+msgctxt "admin.Settings_ContentConversion_Links"
+msgid "UnderlineChk"
+msgstr ""
+
+# Check only
+msgctxt "admin.Settings_ContentConversion_Links"
+msgid "CheckOnlyChk"
+msgstr ""
+
+# Remove
+msgctxt "admin.Settings_ContentConversion_Links"
+msgid "DelChk"
+msgstr ""
+
+# Don't check
+msgctxt "admin.Settings_ContentConversion_Links"
+msgid "NoChk"
+msgstr ""
+
+# Attributes
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "Lbl"
+msgstr ""
+
+# Title from %1$s, %2$s body's data
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_%1$s%2$s"
+msgstr ""
+
+# first 'Header 1'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Body"
+msgstr ""
+
+# first 'Header 1' or 'title'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_PropBody"
+msgstr ""
+
+# 'title'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Prop"
+msgstr ""
+
+# filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_FileName"
+msgstr ""
+
+# 1st body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line1"
+msgstr ""
+
+# 2nd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line2"
+msgstr ""
+
+# 3rd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line3"
+msgstr ""
+
+# 4th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line4"
+msgstr ""
+
+# 5th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line5"
+msgstr ""
+
+# 6th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line6"
+msgstr ""
+
+# 7th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line7"
+msgstr ""
+
+# 8th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line8"
+msgstr ""
+
+# 9th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line9"
+msgstr ""
+
+# 10th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_1_Line10"
+msgstr ""
+
+# don't change
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_2_Unchange"
+msgstr ""
+
+# delete
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TitleChk_2_BodyDel"
+msgstr ""
+
+# Excerpt from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "ExcerptChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "ExcerptChk_1_Body"
+msgstr ""
+
+# separate attribute or 'comments'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "ExcerptChk_1_PropBody"
+msgstr ""
+
+# 'comments'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "ExcerptChk_1_Prop"
+msgstr ""
+
+# Slug from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SlugChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SlugChk_1_Body"
+msgstr ""
+
+# separate attribute or filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SlugChk_1_PropBody"
+msgstr ""
+
+# filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SlugChk_1_Prop"
+msgstr ""
+
+# Tags from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TagsChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TagsChk_1_Body"
+msgstr ""
+
+# separate attribute and 'tags'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TagsChk_1_PropBody"
+msgstr ""
+
+# 'tags'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "TagsChk_1_Prop"
+msgstr ""
+
+# Categories from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "CategoriesChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "CategoriesChk_1_Body"
+msgstr ""
+
+# separate attribute and 'categories'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "CategoriesChk_1_PropBody"
+msgstr ""
+
+# 'categories'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "CategoriesChk_1_Prop"
+msgstr ""
+
+# SEO title from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoTitleChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoTitleChk_1_Body"
+msgstr ""
+
+# separate attribute or 'title'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoTitleChk_1_PropBody"
+msgstr ""
+
+# 'title'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoTitleChk_1_Prop"
+msgstr ""
+
+# filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoTitleChk_1_FileName"
+msgstr ""
+
+# SEO description from %1$s, %2$s body's data
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_%1$s%2$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Body"
+msgstr ""
+
+# separate attribute or 'comments'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_PropBody"
+msgstr ""
+
+# 'comments'
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Prop"
+msgstr ""
+
+# 1st body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line1"
+msgstr ""
+
+# 2nd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line2"
+msgstr ""
+
+# 3rd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line3"
+msgstr ""
+
+# 4th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line4"
+msgstr ""
+
+# 5th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line5"
+msgstr ""
+
+# 6th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line6"
+msgstr ""
+
+# 7th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line7"
+msgstr ""
+
+# 8th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line8"
+msgstr ""
+
+# 9th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line9"
+msgstr ""
+
+# 10th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_1_Line10"
+msgstr ""
+
+# don't change
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_2_Unchange"
+msgstr ""
+
+# delete
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "SeoDescrChk_2_BodyDel"
+msgstr ""
+
+# Date from %1$s using %2$s timezone, %3$s body's data
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_%1$s%2$s%3$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Attr"
+msgstr ""
+
+# 1st body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line1"
+msgstr ""
+
+# 2nd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line2"
+msgstr ""
+
+# 3rd body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line3"
+msgstr ""
+
+# 4th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line4"
+msgstr ""
+
+# 5th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line5"
+msgstr ""
+
+# 6th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line6"
+msgstr ""
+
+# 7th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line7"
+msgstr ""
+
+# 8th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line8"
+msgstr ""
+
+# 9th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line9"
+msgstr ""
+
+# 10th body's line
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_1_Line10"
+msgstr ""
+
+# site's
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_2_Site"
+msgstr ""
+
+# don't change
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_3_Unchange"
+msgstr ""
+
+# delete
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "DateChk_3_BodyDel"
+msgstr ""
+
+# Parent
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "ParentChk"
+msgstr ""
+
+# Order
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "OrderChk"
+msgstr ""
+
+# Status
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "StatusChk"
+msgstr ""
+
+# Featured image from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "FeaturedImageChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "FeaturedImageChk_1_Attr"
+msgstr ""
+
+# separate attribute or 1st body's image
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "FeaturedImageChk_1_AttrBody1"
+msgstr ""
+
+# 1st body's image
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "FeaturedImageChk_1_Body1"
+msgstr ""
+
+# Language from %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "LangChk_%1$s"
+msgstr ""
+
+# separate attribute
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "LangChk_1_Body"
+msgstr ""
+
+# separate attribute or filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "LangChk_1_PropBody"
+msgstr ""
+
+# filename
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "LangChk_1_Prop"
+msgstr ""
+
+# Gallery images
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "WooGalleryImagesChk"
+msgstr ""
+
+# Custom attributes
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "CustomChk"
+msgstr ""
+
+# Input field identificator(s) %1$sshould be used.
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Attrs"
+msgid "PageControlsForBlocksListInfo_%1$s"
+msgstr ""
+
+# Media
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "Lbl"
+msgstr ""
+
+# Upload
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UploadChk"
+msgstr ""
+
+# Also by external URLs
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UploadFromExtUrlsChk"
+msgstr ""
+
+# Embed
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "EmbedChk"
+msgstr ""
+
+# Overwrite existing
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "OverwriteChk"
+msgstr ""
+
+# Place into the library
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "PlaceToLibChk"
+msgstr ""
+
+# Original
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgSizeLbl_1_Original"
+msgstr ""
+
+# Image size: %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgSizeLbl_%1$s"
+msgstr ""
+
+# Original size: %1$s
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgUseOrigSizeLbl_%1$s"
+msgstr ""
+
+# None
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgUseOrigSizeLbl_1_No"
+msgstr ""
+
+# Link
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgUseOrigSizeLbl_1_Link"
+msgstr ""
+
+# Link in the new window
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgUseOrigSizeLbl_1_LinkNewWnd"
+msgstr ""
+
+# Image description as filename
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "ImgDescrAsFileNameChk"
+msgstr ""
+
+# Prepend document's slug to filenames
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "PrependSlugToFileNamesChk"
+msgstr ""
+
+# Convert file name to name like a slug
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "CnvFileNameToSlugChk"
+msgstr ""
+
+# Use image cropping
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UseImageCropChk"
+msgstr ""
+
+# Use image resizing
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UseImageResizeChk"
+msgstr ""
+
+# Use image offset
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UseImageOffsetChk"
+msgstr ""
+
+# Use image border
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "UseImageBorderChk"
+msgstr ""
+
+# Check final URLs
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "CheckUrlsChk"
+msgstr ""
+
+# %1$sWarning!%2$s To preserve post's media final URLs in a right way we don't recommend to upload any images until save new post at first time.
+#, php-format
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "NewPostNoticeInfo_%1$s%2$s"
+msgstr ""
+
+# Media URL base
+msgctxt "admin.Settings_ContentConversion_Media"
+msgid "MediaUrlLbl"
+msgstr ""
